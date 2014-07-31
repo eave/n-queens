@@ -4,7 +4,3 @@
 var nQueens = function () {
   // your code goes here
 }
-
-if ( typeof module !== "undefined" ) {
-  module.exports = nQueens;
-}

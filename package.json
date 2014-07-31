@@ -2,7 +2,5 @@
   "name": "nQueens",
   "private": true,
   "version": "0.0.0",
-  "dependencies": {
-      "chai": "~1.8.0"
-  }
+  "dependencies": {}
 }

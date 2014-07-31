@@ -1,7 +1,4 @@
-var path = require('path');
-var expect = require('chai').expect;
-
-var nQueens = require(path.join(__dirname, '..', './nQueens.js'));
+/* global nQueens, describe, it, expect, should */
 
 describe('nQueens()', function () {
   'use strict';
